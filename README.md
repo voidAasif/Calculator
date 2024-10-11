@@ -18,8 +18,8 @@ This is a basic arithmetic calculator implemented using Java's Swing and AWT lib
 1. Clone or download this repository.
 2. Compile and run the `Calculate` class:
     ```bash
-    javac Calculate.java
-    java Calculate
+    javac Calculator.java
+    java Calculator 
     ```
 
 ## Class Overview
@@ -42,7 +42,7 @@ This is a basic arithmetic calculator implemented using Java's Swing and AWT lib
 
 ## Screenshots
 - Home
-![home](https://github.com/user-attachments/assets/fb423ee2-74e3-45c4-a88e-a7ea9d69180f)
+![Home](https://github.com/user-attachments/assets/b3d4d1a8-2e83-416d-9a8c-5abc6faadad5)
 
 ## License
 This project is licensed under the MIT License.
