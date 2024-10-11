@@ -42,6 +42,7 @@ This is a basic arithmetic calculator implemented using Java's Swing and AWT lib
 
 ## Screenshots
  - Home
+
 ![Home](https://github.com/user-attachments/assets/b3d4d1a8-2e83-416d-9a8c-5abc6faadad5)
 
 
