@@ -41,15 +41,13 @@ This is a basic arithmetic calculator implemented using Java's Swing and AWT lib
 - Implement keyboard input handling for better usability.
 
 ## Screenshots
-- Home
+ - Home
 ![Home](https://github.com/user-attachments/assets/b3d4d1a8-2e83-416d-9a8c-5abc6faadad5)
 
-## License
-This project is licensed under the MIT License.
 
 ### Cloning the Repository
 
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/voidAasif/Calculator-clone.git
+git clone https://github.com/voidAasif/Calculator.git
